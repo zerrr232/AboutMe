@@ -3,7 +3,6 @@
 I'm an **Informatics student** currently diving into the world of software development, with a focus on:
 
 - 🌐 **Front-End Web Development**
-- 🔗 **RESTful APIs**
 - 🎮 **Game Development**
 
 I'm passionate about learning new technologies and building fun and useful projects. I already have a basic foundation in these areas, and I continue to grow my skills.
@@ -24,8 +23,8 @@ I'm passionate about learning new technologies and building fun and useful proje
 Here are a few projects that showcase my interests and current skills:
 
 - 🎮 [**Roblox Obby Game**](https://www.roblox.com/games/17497799942/Chill-Fun-Obby) – A simple obstacle course game built with Roblox Studio
-- 🌐 [**Workfrom**](https://github.com/yourusername/web-portfolio) – A hackathon project showcasing a responsive web development.
-- 🔗 [**Cerahati**](https://github.com/yourusername/notes-api) – A collaborative project to explore RESTful API design.
+- 🌐 [**Workfrom**](https://github.com/zerrr232/Workfrom) – A hackathon project showcasing a responsive web development.
+- 🔗 [**Cerahati**](https://github.com/zerrr232/SOA-Kel.9_Rumah-yatim) – A collaborative project to explore RESTful API design.
 
 > Feel free to explore more on my [GitHub profile](https://github.com/zerrr232)
 
