@@ -24,8 +24,8 @@ I'm passionate about learning new technologies and building fun and useful proje
 Here are a few projects that showcase my interests and current skills:
 
 - 🎮 [**Roblox Obby Game**](https://www.roblox.com/games/17497799942/Chill-Fun-Obby) – A simple obstacle course game built with Roblox Studio
-- 🌐 [**Workfrom**](https://github.com/yourusername/web-portfolio) – A web development themed hackathon project.
-- 🔗 [**Cerahati**](https://github.com/yourusername/notes-api) – A group project to master REST API.
+- 🌐 [**Workfrom**](https://github.com/yourusername/web-portfolio) – A hackathon project showcasing a responsive web development.
+- 🔗 [**Cerahati**](https://github.com/yourusername/notes-api) – A collaborative project to explore RESTful API design.
 
 > Feel free to explore more on my [GitHub profile](https://github.com/zerrr232)
 
@@ -36,7 +36,7 @@ Here are a few projects that showcase my interests and current skills:
 I'm always open to collaboration, feedback, or just a good tech chat!
 
 - 📧 Email: putra.mahandika99@gmail.com
-- 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/putra-mahandika)
+- 🔗 LinkedIn: [linkedin.com/in/putra-mahandika](https://linkedin.com/in/putra-mahandika)
 
 ---
 
