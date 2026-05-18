@@ -26,6 +26,10 @@ Here are a few projects that showcase my interests and current skills:
 - 🌐 [**Workfrom**](https://github.com/zerrr232/Workfrom) – A hackathon project showcasing a responsive web development.
 - 🔗 [**Cerahati**](https://github.com/zerrr232/SOA-Kel.9_Rumah-yatim) – A collaborative project to explore RESTful API design.
 
+Currently working:
+
+- 🎮 [**Roblox Simulator Game**](roblox.com/games/89630358107069) - A feature-rich simulator game built with Roblox Studio
+
 > Feel free to explore more on my [GitHub profile](https://github.com/zerrr232)
 
 ---
