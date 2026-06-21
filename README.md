@@ -3,6 +3,7 @@
 I'm an **Informatics student** currently diving into the world of software development, with a focus on:
 
 - 🌐 **Front-End Web Development**
+- 🌐 **Back-End Web Development**
 - 🎮 **Game Development**
 
 I'm passionate about learning new technologies and building fun and useful projects. I already have a basic foundation in these areas, and I continue to grow my skills.
